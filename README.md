@@ -1,4 +1,4 @@
 # grammar_queen_LLM
-A TensorRT-compatible LLM used to correct grammar
+An LLM used to correct grammar (TensorFlow, TensorRT)
 
 Project Start: December 11, 2023
